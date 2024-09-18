@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "7b1be4a6dd779abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d9057bd4c5c1555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7966c4322984bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0- obsidian-Sepanta/0- Description.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78660fbc9cee027b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac9a9d2f9a7e1a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c770be03e0dd5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b10f78f5b7ca2d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3427e682bc66ac59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7be8608aa7526c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "904f50ca8a0e84a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a051ac92d39a8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0- obsidian-Sepanta/0- Description.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "702cdff341252ab1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0- obsidian-Sepanta/0- Description.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "814be71c1461e793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e41829f9f27e966",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0- obsidian-Sepanta/0- Description.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7966c4322984bf0",
+  "lastOpenFiles": [
+    "0- obsidian-Sepanta/1- Pages.md",
+    "0- obsidian-Sepanta/0- Description.md",
+    "0- obsidian-Sepanta/5- Do.md",
+    "0- obsidian-Sepanta/2- Software Failure.md",
+    "0- obsidian-Sepanta/3- Software Success.md",
+    "0- obsidian-Sepanta/4- Problem.md",
+    "1- obsidian-OnlineShop/4- Problem.md",
+    "0- obsidian-Sepanta/Pages/Teacher.md",
+    "0- obsidian-Sepanta/Pages/Admin.md",
+    "0- obsidian-Sepanta/Pages/Profile.md",
+    "0- obsidian-Sepanta/Pages/Members.md",
+    "0- obsidian-Sepanta/Pages/About Sepanta.md",
+    "0- obsidian-Sepanta/Pages/Login.md",
+    "0- obsidian-Sepanta/Pages/Home.md",
+    "0- obsidian-Sepanta/Pages/Register.md",
+    "Untitled.md",
+    "0- obsidian-Sepanta/Pages",
+    "Welcome.md",
+    "1- obsidian-OnlineShop",
+    "0- obsidian-Sepanta"
+  ]
+}
