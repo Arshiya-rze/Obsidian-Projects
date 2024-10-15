@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0- obsidian-Sepanta/0- Description.md",
-                "mode": "preview",
+                "file": "0- obsidian-Sepanta/5- Do.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0- obsidian-Sepanta/0- Description.md",
+                "file": "0- obsidian-Sepanta/5- Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0- obsidian-Sepanta/0- Description.md",
+                "file": "0- obsidian-Sepanta/5- Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0- obsidian-Sepanta/0- Description.md"
+                "file": "0- obsidian-Sepanta/5- Do.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "e7966c4322984bf0",
   "lastOpenFiles": [
-    "0- obsidian-Sepanta/1- Pages.md",
     "0- obsidian-Sepanta/0- Description.md",
     "0- obsidian-Sepanta/5- Do.md",
-    "0- obsidian-Sepanta/2- Software Failure.md",
-    "0- obsidian-Sepanta/3- Software Success.md",
     "0- obsidian-Sepanta/4- Problem.md",
+    "0- obsidian-Sepanta/3- Software Success.md",
+    "0- obsidian-Sepanta/2- Software Failure.md",
+    "0- obsidian-Sepanta/1- Pages.md",
     "1- obsidian-OnlineShop/4- Problem.md",
     "0- obsidian-Sepanta/Pages/Teacher.md",
     "0- obsidian-Sepanta/Pages/Admin.md",
