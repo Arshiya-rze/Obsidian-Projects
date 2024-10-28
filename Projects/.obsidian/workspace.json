@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9057bd4c5c1555",
+        "id": "c8967f110239f504",
         "type": "tabs",
         "children": [
           {
-            "id": "e7966c4322984bf0",
+            "id": "769ff662fc145890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0- obsidian-Sepanta/0- Description.md",
+                "file": "0- obsidian-Sepanta/2- Software Failure.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2- Software Failure"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0- Description"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "0- obsidian-Sepanta/0- Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0- Description"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "0- obsidian-Sepanta/0- Description.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0- Description"
             }
           }
         ]
@@ -146,23 +162,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7966c4322984bf0",
+  "active": "769ff662fc145890",
   "lastOpenFiles": [
     "0- obsidian-Sepanta/5- Do.md",
-    "0- obsidian-Sepanta/0- Description.md",
     "0- obsidian-Sepanta/4- Problem.md",
     "0- obsidian-Sepanta/3- Software Success.md",
     "0- obsidian-Sepanta/2- Software Failure.md",
+    "0- obsidian-Sepanta/0- Description.md",
     "0- obsidian-Sepanta/1- Pages.md",
-    "1- obsidian-OnlineShop/4- Problem.md",
-    "0- obsidian-Sepanta/Pages/Teacher.md",
+    "0- obsidian-Sepanta/Pages/Services.md",
+    "0- obsidian-Sepanta/Pages/About.md",
+    "0- obsidian-Sepanta/Pages/Footer.md",
+    "0- obsidian-Sepanta/Pages/Navbar.md",
     "0- obsidian-Sepanta/Pages/Admin.md",
-    "0- obsidian-Sepanta/Pages/Profile.md",
-    "0- obsidian-Sepanta/Pages/Members.md",
-    "0- obsidian-Sepanta/Pages/About Sepanta.md",
-    "0- obsidian-Sepanta/Pages/Login.md",
     "0- obsidian-Sepanta/Pages/Home.md",
+    "0- obsidian-Sepanta/Pages/Login.md",
+    "0- obsidian-Sepanta/Pages/Profile.md",
+    "0- obsidian-Sepanta/Pages/Manager.md",
+    "0- obsidian-Sepanta/Pages/Members.md",
+    "0- obsidian-Sepanta/Pages/Secretary.md",
+    "0- obsidian-Sepanta/Pages/Teacher.md",
+    "0- obsidian-Sepanta/Pages/Student.md",
     "0- obsidian-Sepanta/Pages/Register.md",
+    "1- obsidian-OnlineShop/Do.md",
+    "1- obsidian-OnlineShop/4- Problem.md",
     "Untitled.md",
     "0- obsidian-Sepanta/Pages",
     "Welcome.md",
